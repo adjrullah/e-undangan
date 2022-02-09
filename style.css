@@ -1,6 +1,6 @@
 /* Awal Jumbotron */
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 5rem;
   background-image: url(img/3.jpg);
   background-size: cover;
   /* height: 440px; */
@@ -26,3 +26,17 @@
   margin-top: 40px;
 }
 /* Akhir Jumbotron */
+
+/* Awal Desain */
+#desain {
+  background-color: #f3f4f5;
+}
+#desain .btn {
+  background-color: #00000080;
+  border: none;
+  border-radius: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-top: 0px;
+}
+/* Akhir Desain */
